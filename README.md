@@ -26,4 +26,5 @@ This HTML and CSS template is designed for a modern and stylish website layout. 
 - It employs responsive design techniques to ensure compatibility with different screen sizes and devices.
 
 
-![image](https://github.com/MrSahalImran/cssProject5/assets/160908949/e74c1bef-7cf1-4c42-ba26-42549ce75d06)
+![image](https://github.com/MrSahalImran/cssProject5/assets/160908949/79a0be68-24cd-450e-a7c5-8f4144f2d217)
+
